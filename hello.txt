@@ -1,2 +1,3 @@
 Hello world
 editing text in command line
+added anotehr line for difference
